@@ -1,25 +1,11 @@
-# 01-01 vanilla HTML 5 starter page
+# heizkurve-datenschutzerklaerung 
 
 # What is this about?
 
-This is about my vanilla HTML 5 starter page.
+Die heizkurve datenschutzerklaerung benoetigt einen URL auf eine Webseite.
 
-Have you ever heard of this HTML 5 tags ?
-
-```html
-<nav>
-  <main>
-    <section>
-      <header>
-        <details>
-          <summary>
-            <aside> and
-      <footer>
-```
-# If not,
-
-then take a closer look at this template and use it for your ideas and projects!
+in index.html ist die heizkurve datenschutzerklaerung
 
 go to file location [index.html](./index.html)
 
-show [inline raw content of index.html](https://raw.githubusercontent.com/roebi/01-01-vanilla-HTML5-starter-page/master/index.html)
+show [inline raw content of index.html](https://raw.githubusercontent.com/roebi/heizkurve-datenschutzerklaerung /master/index.html)
